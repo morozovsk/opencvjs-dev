@@ -1,7 +1,7 @@
 {
   "name": "opencv-dev",
   "description": "easy to debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "morozovsk (https://github.com/morozovsk)",
   "homepage": "https://github.com/morozovsk/opencvjs-dev",
   "repository": {
