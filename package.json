@@ -1,8 +1,11 @@
 {
   "name": "opencv-dev",
   "description": "easy to debug",
-  "version": "1.0.1",
-  "author": "morozovsk (https://github.com/morozovsk)",
+  "version": "1.0.3",
+  "author": {
+    "name": "morozovsk",
+    "url": "https://github.com/morozovsk"
+  },
   "homepage": "https://github.com/morozovsk/opencvjs-dev",
   "repository": {
     "type": "git",
@@ -10,5 +13,12 @@
   },
   "keywords": ["opencv", "opencvjs", "dev", "debug", "assertions", " exceptions"],
   "license": "MIT",
-  "main": "opencv.js"
+  "main": "opencv.js",
+  "files": [
+    "opencv.js",
+    "index.d.ts",
+    "opencv.d.ts",
+    "types"
+  ],
+  "typings": "./index.d.ts"
 }
