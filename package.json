@@ -9,8 +9,6 @@
     "url": "https://github.com/morozovsk/opencvjs-dev.git"
   },
   "keywords": ["opencv", "opencvjs", "dev", "debug", "assertions", " exceptions"],
-  "dependencies": {
-    
-  },
-  "license": "MIT"
+  "license": "MIT",
+  "main": "opencv.js"
 }
