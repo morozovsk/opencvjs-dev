@@ -1,4 +1,4 @@
-# opencv-dev is useful easy for debug
+# opencv-dev is useful for debug
 
 tested on:
 * ubuntu 20.04
