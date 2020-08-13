@@ -3,10 +3,10 @@
   "description": "easy to debug",
   "version": "1.0.0",
   "author": "morozovsk (https://github.com/morozovsk)",
-  "homepage": "https://github.com/morozovsk/opencv-dev",
+  "homepage": "https://github.com/morozovsk/opencvjs-dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/morozovsk/opencv-dev.git"
+    "url": "https://github.com/morozovsk/opencvjs-dev.git"
   },
   "keywords": ["opencv", "opencvjs", "dev", "debug", "assertions", " exceptions"],
   "dependencies": {
